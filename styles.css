@@ -1,0 +1,28 @@
+body { 
+    background-image: url("https://consequence.net/wp-content/uploads/2023/02/Lana-Del-Rey-photo-courtesy-of-artist.jpeg");
+}
+
+table{
+    -webkit-text-fill-color: #fff;
+}
+
+table, th, td {
+    border: 1px solid khaki
+
+}
+
+
+h1{
+    color:lightskyblue
+}
+
+h2{
+    color:khaki
+}
+
+p{
+    background-color: black;
+    color: #fff;
+    opacity: .5;
+}
+
